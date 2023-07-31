@@ -4,7 +4,6 @@ import './App.css';
 const songs = [
   {
     title: 'Jawan Prevue theme',
-    src:'https://www.bizasialive.com/wp-content/uploads/2022/09/jawan001.jpg',
     url: 'https://pagalworld.cam/songs/bollywood-mp3-songs/Jawan%202023%20Part%201/Jawan%20Prevue%20Theme%20128%20Kbps.mp3',
   },
   {
